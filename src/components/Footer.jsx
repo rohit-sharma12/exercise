@@ -8,7 +8,7 @@ const Footer = () => {
         <img src={Logo} alt="logo" width='90px' height='50px' />
       </Stack>
       <Typography variant='h5' pb='40px' mt='20px' display='flex' alignItems='center' justifyContent='center'>
-        Build Your Muscle With Rohit Fitness
+        Build Muscle With Rohit Fitness
       </Typography>
     </Box>
   )
